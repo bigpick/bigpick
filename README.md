@@ -1,5 +1,18 @@
-### Hi there 👋
-
+```
+        _..._
+      .'     '.
+     ; __   __ ;
+     |/  \ /  \|
+   |\| -- ' -- |/|      Oh, the terrible struggle that I have had against sleep so often of late;
+   |(| \o| |o/ |)|      the pain of the sleeplessness, or the pain of the fear of sleep,
+   _\|     >   |/_      and with such unknown horror as it has for me! How blessed are some people, 
+.-'  | ,.___., |  '-    whose lives have no f̶e̶a̶r̶s̶ bugs, no d̶r̶e̶a̶d̶s̶ compilation errors;  
+\    ;  V'-'V  ;    /   to whom s̶l̶e̶e̶p̶ code is a blessing that comes nightly, and brings nothing
+ '\   \       /   /'    but sweet d̶r̶e̶a̶m̶s̶ paychecks
+   '\  '-...-'  /'
+     '\  / \  /'
+       '\\_//'
+```
 
 <a href="https://github.com/bigpick/CaptureTheFlagCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigpick&repo=CaptureTheFlagCode&show_owner=True&bg_color=0,FFFF80,FF80BF&hide_border=true&theme=graywhite" alt="Ctf tools" />
