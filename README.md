@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://github.com/bigpick">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigpick&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=282a36&icon_color=282a36&bg_color=45,FF80BF,9580FF&theme=graywhite" alt="GP Github Summary" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigpick&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=282a36&icon_color=282a36&bg_color=45,FF80BF,9580FF&hide_rank=true&theme=graywhite" alt="GP Github Summary" />
 </a>
 
 <a href="https://bigpick.github.io/TodayILearned">
