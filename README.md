@@ -14,9 +14,6 @@
        '\\_//'
 ```
 
-<a href="https://github.com/bigpick/CaptureTheFlagCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bigpick&repo=CaptureTheFlagCode&show_owner=True&bg_color=0,FFFF80,FF80BF&hide_border=true&theme=graywhite" alt="Ctf tools" />
-</a>
 
 <a href="https://github.com/bigpick">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bigpick&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=282a36&icon_color=282a36&bg_color=45,FF80BF,9580FF&hide_rank=true&theme=graywhite" alt="GP Github Summary" />
