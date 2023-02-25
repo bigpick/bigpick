@@ -14,4 +14,4 @@
        '\\_//'
 ```
 
-My name's George. I write software as a backend engineer working on cloud and cloud-supporting services. Feel free to [check out my personal blog site](https://barelycompetent.dev/) for more information or recent works.
+Call me Zilla or GP. I write software as a backend engineer working on cloud and cloud supporting services. Feel free to [check out my personal blog site](https://barelycompetent.dev/) for more information or recent works.
