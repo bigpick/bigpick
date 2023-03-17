@@ -5,9 +5,9 @@
 <p align="center">Feel free to <a href="https://barelycompetent.dev/">check out my personal blog site</a> for more information or recent works. 
 </p>
 
----
----
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bigpick/bigpick/test-gif/hm.gif">
+</p>
 
 Interested in: 
 
