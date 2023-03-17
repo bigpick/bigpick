@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bigpick/bigpick/test-gif/hm.gif">
+  <img src="https://raw.githubusercontent.com/bigpick/bigpick/main/hm.gif">
 </p>
 
 Interested in: 
