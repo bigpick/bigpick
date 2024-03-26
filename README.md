@@ -13,7 +13,6 @@ Interested in:
 
 * CyberSecurity
 * Python
-* Rust
 * Scripting
 * DevOps
 * Building and working on tools and standards that empower developers to do work easier, faster, and cleaner.
