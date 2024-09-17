@@ -11,8 +11,8 @@
 
 
 > * Senior Backend Software Engineer
-> * Maintainer of @codeplox-dev
-> * I run [ThatOnePasswordWas40Passwords](https://github.com/ThatOnePasswordWas40Passwords) and [burner-herz0g](https://ctftime.org/team/63292/) for fun in my spare time.
+> * Maintainer of [@codeplox-dev](https://github.com/codeplox-dev)
+> * I run [ThatOnePasswordWas40Passwords](https://github.com/ThatOnePasswordWas40Passwords) (password cracking team) and [burner-herz0g](https://ctftime.org/team/63292/) (CTF/ctftime team) for fun in my spare time.
 
 
 ---
