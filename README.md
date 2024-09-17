@@ -9,6 +9,14 @@
   <img src="https://raw.githubusercontent.com/bigpick/bigpick/main/hm.gif">
 </p>
 
+
+> * Senior Backend Software Engineer
+> * Maintainer of @codeplox-dev
+> * I run [ThatOnePasswordWas40Passwords](https://github.com/ThatOnePasswordWas40Passwords) and [burner-herz0g](https://ctftime.org/team/63292/) for fun in my spare time.
+
+
+---
+  
 Interested in: 
 
 * CyberSecurity
