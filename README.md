@@ -13,8 +13,7 @@ Interested in:
 
 * CyberSecurity
 * Python
-* Scripting
-* DevOps
+* Scripting/Automation/DevOps
 * Building and working on tools and standards that empower developers to do work easier, faster, and cleaner.
 
 Got any questions? Drop me an issue and I'll take a look!
